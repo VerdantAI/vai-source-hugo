@@ -1,0 +1,4 @@
+baseURL = "VerdantAI.github.io"
+languageCode = "en-us"
+title = "Verdant AI"
+theme = "ananke"
