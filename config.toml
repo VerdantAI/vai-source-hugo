@@ -1,5 +1,0 @@
-baseURL = "https://VerdantAI.github.io"
-languageCode = "en-us"
-title = "Verdant AI"
-theme = "ananke"
-canonifyURLs = true
