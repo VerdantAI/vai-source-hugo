@@ -3,3 +3,11 @@ languageCode = "en-us"
 title = "Verdant AI"
 theme = "ananke"
 canonifyURLs = true
+
+[params]
+  featured_image= '/images/ls.jpg'
+  AuthorName = "Brian Dolan"
+  github = "https://github.com/VerdantAI"
+  linkedin = "https://www.linkedin.com/in/buddha314/"
+  SidebarRecentLimit = 5
+  Subtitle = "An Abundance of Living Ideas"
