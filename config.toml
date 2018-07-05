@@ -4,6 +4,13 @@ title = "Verdant AI"
 theme = "ananke"
 canonifyURLs = true
 
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
 [params]
   featured_image= '/images/ls.jpg'
   AuthorName = "Brian Dolan"
